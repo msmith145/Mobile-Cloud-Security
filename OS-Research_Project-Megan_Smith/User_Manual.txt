@@ -1,0 +1,9 @@
+1. To run the CrptoMessage.java and the CyptoMessage.class files, simple run them both in any Java IDE. Further instructions on how to use the methods within these files are included as comments within the code. 
+
+2. To run the OS.R file, run the code in any R IDE.
+
+3. To open the OS.xlsx file, open it within the Mircosoft Excel program. 
+
+4. To view the OS_Presentation.pptx file, open it within the Mircosoft Powerpoint program.
+
+5. To view the OS_Final_Report.docx file, open it within the Mircosoft Word program. 
